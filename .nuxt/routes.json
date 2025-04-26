@@ -1,0 +1,44 @@
+[
+  {
+    "name": "banner_list",
+    "path": "/banner_list",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\banner_list.vue",
+    "chunkName": "pages/banner_list",
+    "_name": "_082f84a1"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_6cc90382"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_35ff9de4"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_2532b23a"
+  },
+  {
+    "name": "subadmin",
+    "path": "/subadmin",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\subadmin.vue",
+    "chunkName": "pages/subadmin",
+    "_name": "_2e89c322"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\tempadmin\\\\Desktop\\\\AdminPanel\\\\oneonn-admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_76c6adbc"
+  }
+]

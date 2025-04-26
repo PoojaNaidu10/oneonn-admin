@@ -1,0 +1,92 @@
+{
+  "DialogAccept": {
+    "description": "Auto imported from components/Dialog/Accept.vue"
+  },
+  "DialogBannerList": {
+    "description": "Auto imported from components/Dialog/BannerList.vue"
+  },
+  "DialogCancel": {
+    "description": "Auto imported from components/Dialog/Cancel.vue"
+  },
+  "DialogDelete": {
+    "description": "Auto imported from components/Dialog/Delete.vue"
+  },
+  "DialogExcelSheetError": {
+    "description": "Auto imported from components/Dialog/ExcelSheetError.vue"
+  },
+  "DialogProduct": {
+    "description": "Auto imported from components/Dialog/Product.vue"
+  },
+  "DialogReturn": {
+    "description": "Auto imported from components/Dialog/Return.vue"
+  },
+  "DialogReview": {
+    "description": "Auto imported from components/Dialog/Review.vue"
+  },
+  "DialogSubAdmin": {
+    "description": "Auto imported from components/Dialog/SubAdmin.vue"
+  },
+  "DialogSubCategory": {
+    "description": "Auto imported from components/Dialog/SubCategory.vue"
+  },
+  "DialogUploadImage": {
+    "description": "Auto imported from components/Dialog/UploadImage.vue"
+  },
+  "DialogUploadImagePopUp": {
+    "description": "Auto imported from components/Dialog/UploadImagePopUp.vue"
+  },
+  "ChartBar": {
+    "description": "Auto imported from components/Chart/Bar.vue"
+  },
+  "ChartPie": {
+    "description": "Auto imported from components/Chart/Pie.vue"
+  },
+  "CommonFooter": {
+    "description": "Auto imported from components/Common/Footer.vue"
+  },
+  "CommonHeader": {
+    "description": "Auto imported from components/Common/Header.vue"
+  },
+  "CommonPreviewImage": {
+    "description": "Auto imported from components/Common/PreviewImage.vue"
+  },
+  "CommonSideBar": {
+    "description": "Auto imported from components/Common/SideBar.vue"
+  },
+  "CommonStepper": {
+    "description": "Auto imported from components/Common/Stepper.vue"
+  },
+  "EditorMain": {
+    "description": "Auto imported from components/Editor/Main.vue"
+  },
+  "EditorMenuBar": {
+    "description": "Auto imported from components/Editor/MenuBar.vue"
+  },
+  "EditorMenuItem": {
+    "description": "Auto imported from components/Editor/MenuItem.vue"
+  },
+  "FormDefaultLogin": {
+    "description": "Auto imported from components/Form/DefaultLogin.vue"
+  },
+  "FormElementsDateInput": {
+    "description": "Auto imported from components/FormElements/DateInput.vue"
+  },
+  "FormElementsFileInput": {
+    "description": "Auto imported from components/FormElements/FileInput.vue"
+  },
+  "TableCourierDetail": {
+    "description": "Auto imported from components/Table/CourierDetail.vue"
+  },
+  "TableDynamic": {
+    "description": "Auto imported from components/Table/Dynamic.vue"
+  },
+  "TableDynamicServerSide": {
+    "description": "Auto imported from components/Table/DynamicServerSide.vue"
+  },
+  "TableProductView": {
+    "description": "Auto imported from components/Table/ProductView.vue"
+  },
+  "TableTabbedOrderShipping": {
+    "description": "Auto imported from components/Table/TabbedOrderShipping.vue"
+  }
+}
